@@ -9,7 +9,7 @@
 
 **Leave Application Management System**:
 
-**Payroll management **:
+**Payroll management:**
 
 - Automated Payroll calculation with leave deduction and payroll receipt generation.
 - Leave reports,types of leaves,current salary, all the information is gathered and appropriate deductions/additions are applied.
