@@ -1,9 +1,10 @@
 # OFFICE MANAGEMENT SYSTEM:
 
-MODULES:
+**MODULES:**
+
 **Employee Management**:
- Automatic unique ID allocation while registering new employees.
- Validation of phone number,email, other information.
+- Automatic unique ID allocation while registering new employees.
+- Validation of phone number,email, other information.
  
 
 -Leave Application Management System.
