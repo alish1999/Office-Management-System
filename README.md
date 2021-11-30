@@ -2,7 +2,7 @@
 
 **Aim/accomplishment of project:**
 - Reduce the amount of manual data entry by admin/user.
-- Most modules/pages require the admin to input just the ID of employee, rest of the data is auto fed and displayed on the system.
+- Most modules/pages require the admin to input just the ID of employee, rest of the data is auto-fed and displayed on the system.
 - Major application of this can be seen in Payroll Management module where the admin just enters the Employee ID and his payment along with PF,taxes,basic salary,allowances is calculated.
 - The information of his leaves is gathered for that month is retrieved for that month and appropriate deductions are applied and displayed automatically.
 
