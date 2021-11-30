@@ -17,8 +17,14 @@
 - Admin can view the total amount of salary paid in each month with specific filters.
  
 
--Work-shift Management System:
-Add new workshifts,Change existing workshift timings,Change an employees workshift.
-Admin can view and manage balance in workshifts by viewing count in each shift.
+**Work-shift Management System:**
 
--Technology Used: Visual Studio, ASP.NET, C#, CSS and MySQL.
+- Add new workshifts,Change existing workshift timings,Change an employees workshift.
+- Admin can view and manage balance in workshifts by viewing count in each shift.
+
+**Technologies used:**
+- Visual Studio 
+- ASP.NET
+- C#
+- CSS 
+- MySQL.
